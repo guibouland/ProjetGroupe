@@ -1,0 +1,17 @@
+---
+title: 'Avancées'
+---
+```{mermaid}
+    gantt
+        title Diagramme de Gantt pour les avancées du projet
+        section Pierre
+            Recherche concernant le projet  : active,     2023-10-01, 2023-10-20
+            Début code : active, milestone,         2023-10-14, 2023-11-20
+        section Guillaume
+            Recherche concernant le projet  : active,     2023-10-01, 2023-10-20
+        section Maxence
+            Recherche concernant le projet : active, milestone,     2023-10-01, 2023-10-20
+        section Quentin
+            Recherche concernant le projet : active, milestone,     2023-10-01, 2023-10-20
+
+```
