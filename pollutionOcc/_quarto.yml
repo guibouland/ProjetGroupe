@@ -3,6 +3,7 @@ project:
 
 website:
   title: "pollutionOcc"
+  page-navigation: true
   navbar:
     tools: 
       - icon: github
