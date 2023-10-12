@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\nCréé pour un projet de groupe"
+  },
+  {
+    "objectID": "Avancée.html",
+    "href": "Avancée.html",
+    "title": "Avancées",
+    "section": "",
+    "text": "gantt\n        title Diagramme de Gantt pour les avancées du projet\n        section Pierre\n            Recherche concernant le projet  : active,     2023-10-01, 2023-10-20\n            Début code : active, milestone,         2023-10-14, 2023-11-20\n        section Guillaume\n            Recherche concernant le projet  : active,     2023-10-01, 2023-10-20\n        section Maxence\n            Recherche concernant le projet : active, milestone,     2023-10-01, 2023-10-20\n        section Quentin\n            Recherche concernant le projet : active, milestone,     2023-10-01, 2023-10-20"
   }
 ]
