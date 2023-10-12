@@ -4,10 +4,35 @@ project:
 website:
   title: "pollutionOcc"
   navbar:
+    tools: 
+      - icon: github
+        href: https://github.com/guibouland/ProjetGroupe
+        text: GitHub
     left:
       - href: index.qmd
         text: Home
+      - sidebar:Départements
       - about.qmd
+      - Avancée.qmd
+  sidebar: 
+    - id: Départements
+      title: Départements
+      collapse-level: 3
+      contents:
+        - Départements/Ariège.qmd
+        - Départements/Aude.qmd
+        - Départements/Aveyron.qmd
+        - Départements/Gard.qmd
+        - Départements/Gers.qmd
+        - Départements/Haute-Garonne.qmd
+        - Départements/Hautes-Pyrénées.qmd
+        - Départements/Hérault.qmd
+        - Départements/Lot.qmd
+        - Départements/Lozère.qmd
+        - Départements/Pyrénées-Orientales.qmd
+        - Départements/Tarn-et-Garonne.qmd
+        - Départements/Tarn.qmd
+
 
 format:
   html:
