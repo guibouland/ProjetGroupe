@@ -2,37 +2,39 @@ project:
   type: website
 
 website:
-  title: "pollutionOcc"
+  repo-url: https://github.com/guibouland/ProjetGroupe
+  repo-actions: [source, issue]
   page-navigation: true
+  back-to-top-navigation: true
+  title: "pollutionOcc"
   navbar:
+    search: true
     tools: 
       - icon: github
         href: https://github.com/guibouland/ProjetGroupe
         text: GitHub
     left:
       - href: index.qmd
-        text: Home
-      - sidebar:Départements
-      - about.qmd
-      - Avancée.qmd
-  sidebar: 
-    - id: Départements
-      title: Départements
-      collapse-level: 3
-      contents:
-        - Départements/Ariège.qmd
-        - Départements/Aude.qmd
-        - Départements/Aveyron.qmd
-        - Départements/Gard.qmd
-        - Départements/Gers.qmd
-        - Départements/Haute-Garonne.qmd
-        - Départements/Hautes-Pyrénées.qmd
-        - Départements/Hérault.qmd
-        - Départements/Lot.qmd
-        - Départements/Lozère.qmd
-        - Départements/Pyrénées-Orientales.qmd
-        - Départements/Tarn-et-Garonne.qmd
-        - Départements/Tarn.qmd
+        text: Accueil
+      - text: "Départements"
+        menu:
+          - Departements/Ariege.qmd
+          - Departements/Aude.qmd
+          - Departements/Aveyron.qmd
+          - Departements/Gard.qmd
+          - Departements/Gers.qmd
+          - Departements/Haute-Garonne.qmd
+          - Departements/Hautes-Pyrenees.qmd
+          - Departements/Herault.qmd
+          - Departements/Lot.qmd
+          - Departements/Lozere.qmd
+          - Departements/Pyrenees-Orientales.qmd
+          - Departements/Tarn-et-Garonne.qmd
+          - Departements/Tarn.qmd
+      - href: about.qmd
+        text: À propos
+      - Avancee.qmd
+
 
 
 format:
