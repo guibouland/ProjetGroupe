@@ -5,13 +5,29 @@ title: 'Avancées'
     gantt
         title Diagramme de Gantt pour les avancées du projet
         section Pierre
-            Recherche concernant le projet  : active,     2023-10-01, 2023-10-20
-            Début code : active, milestone,         2023-10-14, 2023-11-20
+            Recherche concernant le projet  : active,     2023-10-01, 2023-10-23
+            Programmation : active,         2023-10-23, 2023-12-10
+            Aspect interactif de la carte : active,         2023-10-23, 2023-12-10
+            
         section Guillaume
-            Recherche concernant le projet  : active,     2023-10-01, 2023-10-20
+            Recherche concernant le projet  : active,     2023-10-01, 2023-10-23
+            Programmation : active,         2023-10-23, 2023-12-10
+            Elaboration du site : active,         2023-10-23, 2023-12-10
+            
         section Maxence
-            Recherche concernant le projet : active, milestone,     2023-10-01, 2023-10-20
+            Recherche concernant le projet : active,     2023-10-01, 2023-10-23
+            Création des classes : active,         2023-10-23, 2023-11-10
+            Programmation : active,         2023-10-23, 2023-12-10
+            
         section Quentin
-            Recherche concernant le projet : active, milestone,     2023-10-01, 2023-10-20
+            Recherche concernant le projet : active,     2023-10-01, 2023-10-23
+            Sélection des données : active,         2023-10-23, 2023-11-10
+            Utilisation/interprétation des données : active,         2023-11-10, 2023-12-10
+            Programmation : active,         2023-10-23, 2023-12-10
+            
+        section Evaluation
+            Présentation projet : active, milestone,     2023-10-23, 2023-10-23
+            Dépôt projet : active, milestone,     2023-12-10, 2023-12-10
+            Présentation orale : active, milestone,     2023-12-15, 2023-12-15
 
 ```
