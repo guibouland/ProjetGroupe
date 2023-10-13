@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "La pollution en Occitanie",
     "section": "",
-    "text": "Carte de l’Occitanie\nLes départements sont contourés et cliquables"
+    "text": "Carte de l’Occitanie\nLes départements sont contourés et cliquables\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\nCréé pour un projet de groupe"
+    "text": "About this site\nCréé pour un projet de groupe\n\n\n\n Back to top"
   },
   {
     "objectID": "Avancée.html",
@@ -19,5 +19,19 @@
     "title": "Avancées",
     "section": "",
     "text": "gantt\n        dateFormat YYYY-MM-DD\n        title Diagramme de Gantt pour les avancées du projet\n        \n        %% Ceci est provisoire\n        section Pierre\n            Recherche concernant le projet  : done,     2023-10-01, 2023-10-23\n            Programmation : active,         2023-10-23, 2023-12-10\n            Aspect interactif de la carte : crit,         2023-10-23, 2023-12-10\n            \n        section Guillaume\n            Recherche concernant le projet  : done,     2023-10-01, 2023-10-23\n            Programmation : active,         2023-10-23, 2023-12-10\n            Elaboration du site : crit,         2023-10-23, 2023-12-10\n            \n        section Maxence\n            Recherche concernant le projet : done,     2023-10-01, 2023-10-23\n            Programmation : active,         2023-10-23, 2023-12-10\n            Création des classes : crit,         2023-10-23, 2023-11-10\n            \n        section Quentin\n            Recherche concernant le projet : done,     2023-10-01, 2023-10-23\n            Programmation : active,         2023-10-23, 2023-12-10\n            Sélection des données : crit,         2023-10-23, 2023-11-10\n            Utilisation/interprétation des données : crit,         2023-11-10, 2023-12-10\n            \n        section Evaluation\n            Présentation projet : active, milestone,     2023-10-23, 2023-10-23\n            Dépôt projet : milestone,     2023-12-10, 2023-12-10\n            Présentation orale : milestone,     2023-12-15, 2023-12-15"
+  },
+  {
+    "objectID": "Avancee.html",
+    "href": "Avancee.html",
+    "title": "Avancées",
+    "section": "",
+    "text": "gantt\n        dateFormat YYYY-MM-DD\n        title Diagramme de Gantt pour les avancées du projet\n        \n        %% Ceci est provisoire\n        section Pierre\n            Recherche concernant le projet  : done,     2023-10-01, 2023-10-23\n            Programmation : active,         2023-10-23, 2023-12-10\n            Aspect interactif de la carte : crit,         2023-10-23, 2023-12-10\n            \n        section Guillaume\n            Recherche concernant le projet  : done,     2023-10-01, 2023-10-23\n            Programmation : active,         2023-10-23, 2023-12-10\n            Elaboration du site : crit,         2023-10-23, 2023-12-10\n            \n        section Maxence\n            Recherche concernant le projet : done,     2023-10-01, 2023-10-23\n            Programmation : active,         2023-10-23, 2023-12-10\n            Création des classes : crit,         2023-10-23, 2023-11-10\n            \n        section Quentin\n            Recherche concernant le projet : done,     2023-10-01, 2023-10-23\n            Programmation : active,         2023-10-23, 2023-12-10\n            Sélection des données : crit,         2023-10-23, 2023-11-10\n            Utilisation/interprétation des données : crit,         2023-11-10, 2023-12-10\n            \n        section Evaluation\n            Présentation projet : active, milestone,     2023-10-23, 2023-10-23\n            Dépôt projet : milestone,     2023-12-10, 2023-12-10\n            Présentation orale : milestone,     2023-12-15, 2023-12-15\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Departements/Ariege.html",
+    "href": "Departements/Ariege.html",
+    "title": "Ariège",
+    "section": "",
+    "text": "Back to top"
   }
 ]
