@@ -1,0 +1,8 @@
+Projet_Guibouland
+
+Description du projet
+
+Photos de dessins des résultats prévus
+
+Diagramme de Gantt (pour l'instant dans le fichier pollutionOcc/Avancée.qmd)
+
