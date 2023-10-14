@@ -1,5 +1,23 @@
 project:
   type: website
+  render: 
+    - index.qmd
+    - pollutionOcc/about.qmd
+    - pollutionOcc/Avancee.qmd
+    - pollutionOcc/Departements/Ariege.qmd
+    - pollutionOcc/Departements/Aude.qmd
+    - pollutionOcc/Departements/Aveyron.qmd
+    - pollutionOcc/Departements/Gard.qmd
+    - pollutionOcc/Departements/Gers.qmd
+    - pollutionOcc/Departements/Haute-Garonne.qmd
+    - pollutionOcc/Departements/Hautes-Pyrenees.qmd
+    - pollutionOcc/Departements/Herault.qmd
+    - pollutionOcc/Departements/Lot.qmd
+    - pollutionOcc/Departements/Lozere.qmd
+    - pollutionOcc/Departements/Pyrenees-Orientales.qmd
+    - pollutionOcc/Departements/Tarn-et-Garonne.qmd
+    - pollutionOcc/Departements/Tarn.qmd
+
 
 website:
   repo-url: https://github.com/guibouland/ProjetGroupe
