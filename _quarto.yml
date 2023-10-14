@@ -1,0 +1,49 @@
+project:
+  type: website
+
+website:
+  repo-url: https://github.com/guibouland/ProjetGroupe
+  repo-actions: [source, issue]
+  page-navigation: true
+  back-to-top-navigation: true
+  title: "pollutionOcc"
+  navbar:
+    search: true
+    tools: 
+      - icon: github
+        href: https://github.com/guibouland/ProjetGroupe
+        text: GitHub
+    left:
+      - href: index.qmd
+        text: Accueil
+      - text: "Départements"
+        menu:
+          - pollutionOcc/Departements/Ariege.qmd
+          - pollutionOcc/Departements/Aude.qmd
+          - pollutionOcc/Departements/Aveyron.qmd
+          - pollutionOcc/Departements/Gard.qmd
+          - pollutionOcc/Departements/Gers.qmd
+          - pollutionOcc/Departements/Haute-Garonne.qmd
+          - pollutionOcc/Departements/Hautes-Pyrenees.qmd
+          - pollutionOcc/Departements/Herault.qmd
+          - pollutionOcc/Departements/Lot.qmd
+          - pollutionOcc/Departements/Lozere.qmd
+          - pollutionOcc/Departements/Pyrenees-Orientales.qmd
+          - pollutionOcc/Departements/Tarn-et-Garonne.qmd
+          - pollutionOcc/Departements/Tarn.qmd
+      - href: pollutionOcc/about.qmd
+        text: À propos
+      - pollutionOcc/Avancee.qmd
+
+
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, custom.css]
+    code-fold: true
+jupyter: python3
+
+editor: visual
+
