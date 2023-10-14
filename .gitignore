@@ -7,3 +7,5 @@ pollutionOcc/_site/
 pollutionOcc/_site/*.html
 pollutionOcc/_site/*.json
 pollutionOcc/_site/*
+
+/.quarto/
